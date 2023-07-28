@@ -1,0 +1,39 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "alagii",
+      "email": "sujii@gmail.com",
+      "phone": "8877889900",
+      "active": false
+    },
+    {
+      "id": 2,
+      "name": "premkumar",
+      "email": "premkumar@oceansoftwares.in",
+      "phone": "09009999888",
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "sujiiikutty",
+      "email": "sujiiikutty@gmail.com",
+      "phone": "09009999888",
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "prem",
+      "email": "prem@gmail.com",
+      "phone": "7766778899",
+      "active": true
+    },
+    {
+      "id": 5,
+      "name": "prem",
+      "email": "kumar@gmail.pcom",
+      "phone": "09009999888",
+      "active": true
+    }
+  ]
+}
